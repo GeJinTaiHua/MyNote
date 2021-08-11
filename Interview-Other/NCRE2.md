@@ -597,4 +597,9 @@
   + reliability：可靠性
   + response time：响应时间
   + maintainability：可维护性
++ big data：大数据
+  + volume：大量
+  + velocity：高速
+  + variety：多样
+  + value：价值
 
