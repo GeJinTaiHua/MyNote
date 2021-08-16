@@ -98,19 +98,19 @@
         <td >网络层</td> 
         <td >分组传输和路由选择</td> 
         <td colspan="3">IP、ICMP、IGMP、ARP、RARP</td> 
-        <td ></td> 
+        <td >三层交换机、路由器</td> 
     </tr>
     <tr>
         <td >数据链路层（Data Link）</td> 
         <td rowspan="2">数据链路层</td> 
         <td >传送以帧为单位的信息</td> 
         <td rowspan="2" colspan="3">CSMA/CD、TokingRing</td> 
-        <td ></td> 
+        <td >网卡、网桥、二层交换机</td> 
     </tr>
     <tr>
         <td >物理层（Physical）</td> 
         <td >二进制位传输</td> 
-        <td ></td> 
+        <td >集线器（Hub）、中继器、调制解调器</td> 
     </tr>
 </table>
 
