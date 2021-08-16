@@ -72,7 +72,7 @@
         <td rowspan="3">POP3 <br/> FTP、HTTP <br/> Telnet、SMTP</td>     
         <td rowspan="3">NFS</td>     
         <td rowspan="3"><br/> DHCP、TFTP <br/> snmp、DNS</td>    
-        <td rowspan="3">多层交换机、网关</td>     
+        <td rowspan="4">多层交换机、网关</td>     
     </tr>
     <tr>
         <td >表示层（Presentation）</td>    
