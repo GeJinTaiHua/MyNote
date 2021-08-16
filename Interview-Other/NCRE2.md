@@ -72,17 +72,15 @@
         <td rowspan="3">POP3 <br/> FTP、HTTP <br/> Telnet、SMTP</td>     
         <td rowspan="3">NFS</td>     
         <td rowspan="3"><br/> DHCP、TFTP <br/> snmp、DNS</td>    
-        <td ></td>     
+        <td rowspan="3">多层交换机、网关</td>     
     </tr>
     <tr>
         <td >表示层（Presentation）</td>    
         <td >数据表示</td>     
-        <td ></td> 
     </tr>
     <tr>
         <td >会话层（Session）</td>    
         <td >互联主机通信</td>    
-        <td ></td> 
     </tr>
     <tr>
         <td >传输层（Transport）</td> 
@@ -91,7 +89,6 @@
         <td >TCP</td>     
         <td ></td>     
         <td >UDP</td>
-        <td ></td> 
     </tr>
     <tr>
         <td >网络层（Network）</td> 
