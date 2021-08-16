@@ -63,6 +63,7 @@
         <td >TCP/IP四层概念模型</td> 
         <td >主要功能</td> 
         <td colspan="3">协议</td> 
+        <td >网络设备</td> 
     </tr>
     <tr>
         <td >应用层（Application）</td>    
@@ -71,14 +72,17 @@
         <td rowspan="3">POP3 <br/> FTP、HTTP <br/> Telnet、SMTP</td>     
         <td rowspan="3">NFS</td>     
         <td rowspan="3"><br/> DHCP、TFTP <br/> snmp、DNS</td>    
+        <td ></td>     
     </tr>
     <tr>
         <td >表示层（Presentation）</td>    
-        <td >数据表示</td>      
+        <td >数据表示</td>     
+        <td ></td> 
     </tr>
     <tr>
         <td >会话层（Session）</td>    
-        <td >互联主机通信</td>      
+        <td >互联主机通信</td>    
+        <td ></td> 
     </tr>
     <tr>
         <td >传输层（Transport）</td> 
@@ -86,23 +90,27 @@
         <td >端到端连接</td> 
         <td >TCP</td>     
         <td ></td>     
-        <td >UDP</td>      
+        <td >UDP</td>
+        <td ></td> 
     </tr>
     <tr>
         <td >网络层（Network）</td> 
         <td >网络层</td> 
         <td >分组传输和路由选择</td> 
         <td colspan="3">IP、ICMP、IGMP、ARP、RARP</td> 
+        <td ></td> 
     </tr>
     <tr>
         <td >数据链路层（Data Link）</td> 
         <td rowspan="2">数据链路层</td> 
         <td >传送以帧为单位的信息</td> 
         <td rowspan="2" colspan="3">CSMA/CD、TokingRing</td> 
+        <td ></td> 
     </tr>
     <tr>
         <td >物理层（Physical）</td> 
         <td >二进制位传输</td> 
+        <td ></td> 
     </tr>
 </table>
 
