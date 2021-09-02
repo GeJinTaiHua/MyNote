@@ -20,5 +20,3 @@
 |:----:|:----:|:----:|:----:|:----:|
 |[:octocat:GitHub](Interview-Other/GitHub.md)| | | | | 
 
-
-
